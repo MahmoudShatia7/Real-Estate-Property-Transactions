@@ -53,7 +53,8 @@ The analysis provides valuable insights into the real estate market, highlightin
 
 - `data/`: Contains the dataset files.
 - `notebooks/`: Jupyter notebooks with data analysis and visualizations.
-- `images/`: Visualizations generated during the analysis.
+- `report/`: Visualizations generated during the analysis.
+- `Scripts/`: Streamlit code for analysis.
 - `README.md`: This file, providing an overview and insights from the analysis.
 
 ## Getting Started
